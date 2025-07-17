@@ -1,2 +1,6 @@
 # scripts
-scripts for developing fonts, specially persian font
+اسکریپت های پایتونی و سبحان نوری 
+
+## font weight analize
+ابزاری برای بررسی و تحلیل وزن و میزان پراکندگی گلیف های قلم است.
+
